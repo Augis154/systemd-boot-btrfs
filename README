@@ -1,0 +1,3 @@
+# Systemd-boot btfrs
+
+Tool witch populates systemd-boot entries with snapshots from snapper
